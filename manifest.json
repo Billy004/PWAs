@@ -1,0 +1,26 @@
+{
+    "id": "/PWAs/",
+    "name": "Simple PWA",
+    "short_name": "PWA",
+    "description": "A simple progressive web app example.",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2196f3",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "screenshot.png",
+        "sizes": "1920x1080",
+        "type": "image/png",
+        "form_factor": "wide"
+      }
+    ]
+  }
+  
