@@ -70,8 +70,8 @@ Follow these steps to set up and run the PWA locally. Due to Service Worker rest
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/simple-pwa.git
-   cd simple-pwa
+   git clone https://github.com/Billy004/PWAs.git
+   cd PWAs
    ```
 
 2. **Choose a Local Server**:
@@ -87,7 +87,7 @@ Follow these steps to set up and run the PWA locally. Due to Service Worker rest
    - Navigate to the project directory:
 
      ```bash
-     cd simple-pwa
+     cd PWAs
      ```
 
    - Start the server:
@@ -109,7 +109,7 @@ Follow these steps to set up and run the PWA locally. Due to Service Worker rest
    - Start the server:
 
      ```bash
-     cd simple-pwa
+     cd PWAs
      http-server -p 8080
      ```
 
@@ -215,7 +215,7 @@ server {
 1. Navigate to the project directory:
 
    ```bash
-   cd simple-pwa
+   cd PWAs
    ```
 
 2. Build the image:
@@ -320,10 +320,6 @@ Please include tests and update documentation as needed.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
-Built with ❤️ by \[Your Name/Organization\]. Happy coding!
+Built with ❤️ by \[billy004/ Walugembe Expedicto]. Happy coding!
